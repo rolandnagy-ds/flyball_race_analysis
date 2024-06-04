@@ -1,0 +1,52 @@
+host,name,breed,sex,castrated,birth_date,chip_number,ulna_length,hurdle_height,age
+TM800418,Dexter,kooikerhondje,male,neutral,2010-02-14,93900005238999,14.05,25.0,14
+NP950613,Jasper,border,male,neutral,2011-03-28,93900007189034,16.56,30.0,13
+UF830429,Angie,border,female,neutral,2014-02-06,93900003827629,15.22,27.5,10
+ZE801127,Alex,border,male,neutral,2014-04-22,93900003598960,17.95,32.5,10
+DP910919,Ashley,border,female,neutral,2015-01-26,93900009738344,18.3,32.5,9
+OJ941014,Bella,american staffordshire terrier,female,neutral,2015-02-27,93900009320601,14.7,25.0,9
+HO800728,Gordon,jack russell terrier,male,neutral,2015-04-12,93900001569304,9.67,15.0,9
+UR870607,Negro,mix,male,neutral,2015-04-14,93900002110777,15.77,27.5,9
+RK871018,Fibo,magyar vizsla,male,neutral,2015-05-21,93900001757525,17.99,32.5,9
+PO831026,Agnes,border,female,neutral,2015-09-24,93900007138387,18.02,32.5,9
+DM850705,Speedy,mix,male,neutral,2015-11-07,93900001547455,1.491,25.0,9
+LO900912,Apollo,border,male,neutral,2015-12-01,93900002501294,17.2,30.0,9
+TV860229,Riley,mix,female,neutral,2016-02-27,93900009815888,15.26,27.5,8
+WS810829,Jessie,border,female,neutral,2016-04-30,93900008979908,17.99,32.5,8
+MB801205,Ted,border,male,neutral,2016-05-02,93900007209752,16.52,30.0,8
+OK870605,Gerry,australian kelpie,male,neutral,2016-09-03,93900007728423,14.04,25.0,8
+UB870201,Henry,parson russell terrier,male,neutral,2017-04-15,93900008474491,1.209,20.0,7
+KL920415,Bailey,border,female,neutral,2017-05-04,93900004198045,18.16,32.5,7
+BV810323,Enola,border,female,neutral,2017-05-31,93900002731726,18.06,32.5,7
+JV990222,Punk,small schnauzer,female,neutral,2017-07-04,93900007218892,10.02,15.0,7
+AT991109,Sara,border,female,neutral,2017-08-25,93900003495780,15.84,27.5,7
+UZ940717,Pax,sheltie,male,neutral,2017-09-08,93900004293075,14.3,25.0,7
+MT970826,Rex,mix,male,sexual,2017-11-17,93900004371167,16.01,27.5,7
+SO990728,Dusty,parson russell terrier,female,neutral,2017-12-21,93900005627226,13.03,22.5,7
+UO920408,Fleur,border,male,neutral,2018-01-04,93900001974600,17.81,32.5,6
+IN920805,Bruno,border,male,neutral,2018-03-08,93900002928155,16.0,32.5,6
+IS961124,Alfie,australian shepperd,female,neutral,2018-03-09,93900009309522,16.56,30.0,6
+UO880828,Hector,border,male,sexual,2018-08-02,93900003589833,18.0,32.5,6
+TU820403,Maggie,border,female,neutral,2018-09-02,93900005172450,16.54,30.0,6
+KL970722,Them,mix,male,neutral,2018-10-18,93900003871143,14.8,25.0,6
+EH831207,Rocky,belgian shepherd - malinois,male,neutral,2018-12-22,93900003818036,18.29,32.5,6
+LZ800202,Dixie,border,male,neutral,2018-12-22,93900002523549,14.36,25.0,6
+OA821108,Brix,border,male,neutral,2019-01-19,93900003669802,17.68,32.5,5
+HM980701,Milo,border,male,neutral,2019-06-01,93900009646655,17.3,30.0,5
+EC940409,Tyna,border,female,neutral,2019-06-15,93900007664925,15.36,27.5,5
+NZ800507,Abby,border,female,neutral,2019-07-16,93900008694414,15.46,27.5,5
+EH800220,Easy,patterdale terrier,male,neutral,2019-11-13,93900006680519,11.71,20.0,5
+DU050516,Falco,border,female,neutral,2020-04-20,93900009884426,19.0,27.5,4
+GB900808,Sunny,belgian shepherd - malinois,female,neutral,2020-09-10,93900009650506,18.0,32.5,4
+RF840515,Nina,border,female,neutral,2020-09-20,93900002949462,15.38,27.5,4
+TC041225,Kesha,border,male,sexual,2020-11-16,93900005669853,13.6,22.5,4
+LF971218,Mason,mix,male,neutral,2020-11-29,93900002956276,15.23,27.5,4
+GE030417,Moon,border,female,sexual,2021-01-04,93900006876951,17.35,30.0,3
+DD800226,Sirius,border,male,neutral,2021-01-04,93900005539134,17.74,32.5,3
+LM070408,Scotty,mudi,male,sexual,2021-01-31,93900008830504,16.84,30.0,3
+RN891016,Cookies,australian kelpie,male,sexual,2021-04-09,93900008401355,15.12,27.5,3
+LP030829,Bree,belgian shepherd - malinois,female,neutral,2021-06-11,93900003826751,16.73,30.0,3
+VK910426,Kent,mix,male,sexual,2021-07-10,93900001206699,15.28,27.5,3
+MJ930217,Brooke,border,male,sexual,2021-10-20,93900005854271,17.08,30.0,3
+NJ890324,Bonnie,whippet,female,sexual,2022-03-08,93900008748969,15.71,27.5,2
+UH881130,Hank,mix,male,sexual,2022-05-02,93900008222471,16.28,27.5,2
