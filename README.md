@@ -27,7 +27,7 @@ The analysis was originally made for the in-house competition of the [Data36.com
 
 **Processing** the WRFT flyball team's competition data from the past year **to build up a comprehensive picture**, which will also help them **to achieve even higher levels of performance** in the future.
 
-The initial dataset contains the results of the Czech national and the international competition related to the WRFT team, furthermore the base data of the racing dogs. A detailed description of the dataset variables is available [here](https://github.com/rolandnagy-ds/flyball_race_analysis/tree/main/documentation).
+The initial dataset contains the results of the Czech national and the international competition related to the WRFT team, furthermore the base data of the racing dogs. A detailed description of the dataset variables is available [here](https://github.com/rolandnagy-ds/flyball_race_analysis/tree/main/data).
 
 *The final analysis consists of 3 main parts:*
 
