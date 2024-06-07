@@ -33,12 +33,12 @@ Here's what you should know about columns:
 - celkem: the team’s total runtime
 - V/P/R: sign for Win (Vítězství), Loss (Prohra), Tie (Remíza)
 - překážky: height of hurdle
-- jméno oszlopok: name of the dog for that specific relay
-- 1.pes, 2.pes, 3.pes, 4.pes oszlopok: part-time of the dog for that specific relay
+- jméno columns: name of the dog for that specific relay
+- 1.pes, 2.pes, 3.pes, 4.pes columns: part-time of the dog for that specific relay
 -	the [‘vbehl’, ‘mimo’] values indicates errors that was committed by the dogs within running: vbehl = ’ran in’ error, mimo = ’outside’ error
 -	start: starting time of the dog running in 1st position
 	- the change-time variables can contain zero values, indicating early starts
- - stříd. variables: changeover time for a dog running in a given position
+ - stříd. columns: changeover time for a dog running in a given position
 	- ‘chyba’ value means early starts too, but less than the machine can calculate
 	- ’ok’ values means nearly perfect change times
 
@@ -58,9 +58,9 @@ The columns are as follows:
 - total time: the team’s total runtime
 - W/L/T: Win, Loss, Tie
 - Hurdles: height of hurdle
-- name oszlopok: name of the dog for that specific relay
-- 1.dog, 2.dog, 3.dog, 4.dog oszlopok: part-time of the dog for that specific relay
+- name columns: name of the dog for that specific relay
+- 1.dog, 2.dog, 3.dog, 4.dog columns: part-time of the dog for that specific relay
 - start: starting time of the dog running in 1st position
-- chng oszlopok: changeover time for a dog running in a given position
+- chng columns: changeover time for a dog running in a given position
 
 Note that on the second sheet, in the columns containing the dog run times and the changeover times, for some reason the textual information about errors appears in Czech.
