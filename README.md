@@ -38,6 +38,7 @@ The initial dataset contains the results of the Czech national and the internati
 
 I will summarize the main tasks and challenges of each section below.
 
+
 &nbsp;
 
 **A detailed description for the following will be published soon.**
