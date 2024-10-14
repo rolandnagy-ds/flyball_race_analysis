@@ -4,10 +4,10 @@
 - *Completed*
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Breezeflyballtraining.JPG/1920px-Breezeflyballtraining.JPG" width="400"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Breezeflyballtraining.JPG/1920px-Breezeflyballtraining.JPG" width="300"/>
 </p>
 
-## Executive Summary:
+## 1) Project background
 
 This analysis is based on a fictional data, but with real background and situation.
 
@@ -21,31 +21,54 @@ The data imitates that the fictional Flyball team's (Wild Runners Flyball Team â
 
 The analysis was originally made for the in-house competition of the [Data36.com](https://data36.com) data science club, where I ranked at first place with this EDA.
 
-## 1) Project Objective
+## 2) Project Objective and Results
 
-*A one-sentence summary of the overall goal:*
+### *Objective*
 
 **Processing** the WRFT flyball team's competition data from the past year **to build up a comprehensive picture**, which will also help them **to achieve even higher levels of performance** in the future.
 
-The initial dataset contains the results of the Czech national and the international competition related to the WRFT team, furthermore the base data of the racing dogs. A detailed description of the dataset variables is available [here](https://github.com/rolandnagy-ds/flyball_race_analysis/tree/main/data).
-
-*The final analysis consists of 3 main parts:*
+*Main contributions:*
 
 - Data preprocessing and cleaning
 - Basic EDA
 - Advanced EDA (with collecting data from external sources)
 - Team composition optimization
 
-I will summarize the main tasks and challenges of each section below.
+*Dataset:* 
+- Table 1: results of the Czech national competition related to the WRFT team
+- Table 2: results of the Czech international competition related to the WRFT team
+- Table 3: base data of the racing dogs
+
+The description of the dataset variables is available [here](https://github.com/rolandnagy-ds/flyball_race_analysis/tree/main/data).
+
+### *Results*
+
+In the analysis, I have **identified and communicated the key factors** that are critical to race results. I communicated the **recommendations for changes** that would help the team achieve better results and continue to operate.
+
+- Database cleaning and exploratory analysis
+- Obtaining missing data from external sources (API)
+- Identification of the key factors that determine race results and dog performance
+- Recommendations for training plan and competitions to achieve better placings, thus ensuring the sustainability of the team
+- Optimisation of team composition
+- Presentation of results to stakeholders
 
 
-&nbsp;
+ **Methods Used**
+* Data Cleaning
+* Data Exploration
+* Investigate Statistical Metrics
+* Data Visualization
+* Feature Importance analysis with Machine learning
+* Optimization with Machine learning
+* API usage
+* Presentation of found insights
 
-**A detailed description for the following will be published soon.**
+**Tools**
+* Python
+* Excel
 
-&nbsp;
 
-## 2) Project Implementation
+## 3) Detailed description
 
 
 
@@ -62,25 +85,6 @@ I will summarize the main tasks and challenges of each section below.
 
 
 
-
-## 3) Project Results and Findings
-
-
-## Details
-
-### Methods Used
-* Data Cleaning
-* Data Exploration
-* Investigate Statistical Metrics
-* Data Visualization
-* Feature Importance analysis with Machine learning
-* Optimization with Machine learning
-* API usage
-* Presentation of found insights
-
-### Technologies
-* Python
-* Excel
 
 ### Origanized by
 
