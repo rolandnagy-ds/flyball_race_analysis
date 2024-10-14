@@ -1,8 +1,5 @@
 # EDA on the performance of a Flyball dog race team
 
-#### *Project Status*: 
-- *Completed*
-
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Breezeflyballtraining.JPG/1920px-Breezeflyballtraining.JPG" width="300"/>
 </p>
@@ -70,21 +67,42 @@ In the analysis, I have **identified and communicated the key factors** that are
 
 ## 3) Detailed description
 
-
-
 ### Data preprocessing and cleaning
 
+- Read different non-standard format Excel tables to Python
+- Ensuring data integrity
+  - Handling of outliers
+  - Handling missing rows and cells
+  - Correction of inconsistent datapoints
+- Providing basic statistical metrics
 
 ### Basic EDA
 
+- Reading Excel metadata (cell color codes) into Python
+- Answering the coach's questions (based on the coach's previous experience, he had a subjective opinion, he was curious if this was supported by the data).
+- Summaries and visualizations
+- Creation of external pivot tables for data aggregation
 
 ### Advanced EDA
 
+- Preparation of further advanced level analyzes according to club owner and coach questions
+ - Many transformations and formatting on data tables
+- Examination of the effect of weather
+ - Geocoding of competition locations
+ - Download historical weather data via API connection
+ - Analysis of weather effects, visualization
 
 ### Team composition optimization
 
+- Development of a machine learning model
+  - To predict the team performance
+  - To check the variable importances (using SHAP method)
+- Model relevance check
+- Optimization of team composition using Partial Dependence method
 
+### Presentation of results
 
+- In-person presentation of results to a jury of recognized senior data scientists
 
 ### Origanized by
 
