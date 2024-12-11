@@ -36,7 +36,7 @@ The analysis was originally made for the in-house competition of the [Data36.com
 - Table 2: results of the Czech international competition related to the WRFT team
 - Table 3: base data of the racing dogs
 
-The description of the dataset variables is available [here](https://github.com/rolandnagy-ds/flyball_race_analysis/tree/main/data).
+The description of the dataset variables is available [here](https://github.com/roland045/flyball_race_analysis/tree/main/data).
 
 ### *Results*
 
